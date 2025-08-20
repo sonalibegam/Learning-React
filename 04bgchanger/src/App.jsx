@@ -2,7 +2,7 @@ import { useState } from "react"
 
 
 function App() {
-  const [color, setColor] = useState("black")
+  const [color, setColor] = useState("default")
 
   return (
     <>
